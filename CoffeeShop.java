@@ -12,5 +12,6 @@ public class CoffeeShop {
                 break;
             }
         }
+        scan.close();
     }
 }
